@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.35207.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "advlgs-benchmark", "advlgs-benchmark.vcxproj", "{A9B91B2F-05F1-4F7E-91F5-A59AA637E7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B91B2F-05F1-4F7E-91F5-A59AA637E7B2}.Debug|x64.ActiveCfg = Debug|x64
+		{A9B91B2F-05F1-4F7E-91F5-A59AA637E7B2}.Debug|x64.Build.0 = Debug|x64
+		{A9B91B2F-05F1-4F7E-91F5-A59AA637E7B2}.Release|x64.ActiveCfg = Release|x64
+		{A9B91B2F-05F1-4F7E-91F5-A59AA637E7B2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BDF557-40C2-4A11-B29C-A85A9CB140F1}
+	EndGlobalSection
+EndGlobal

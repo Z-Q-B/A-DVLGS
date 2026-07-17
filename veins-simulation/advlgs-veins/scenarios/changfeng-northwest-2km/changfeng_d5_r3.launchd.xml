@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <copy file="changfeng_northwest_2km.net.xml"/>
+    <copy file="changfeng_d5_r3.rou.xml"/>
+    <copy file="changfeng_d5_r3.sumo.cfg" type="config"/>
+</launch>

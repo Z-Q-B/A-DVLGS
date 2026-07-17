@@ -1,0 +1,72 @@
+# Visual Studio and native build products
+.vs/
+**/x64/
+**/out/
+**/build/
+**/debug/
+**/release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lib
+*.dll
+*.dll.a
+*.a
+*.tlog
+*.lastbuildstate
+
+# OMNeT++ and SUMO outputs
+**/results/
+**/gui-results/
+*.sca
+*.vec
+*.vci
+*.elog
+*.log
+trips.trips.xml
+_tmp_*
+
+# Generated benchmark data
+*.csv
+*.done
+!**/*.example.csv
+
+# Python and PowerShell intermediates
+__pycache__/
+*.py[cod]
+*.timing-backup-*
+
+# Local IDE and operating-system files
+.vscode/
+.idea/
+.qtenvrc
+*.user
+*.suo
+*.VC.db
+.DS_Store
+Thumbs.db
+
+# Local configuration and credentials
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Manuscript and working-document files
+manuscript/
+paper/
+*.tex
+*.bib
+*.doc
+*.docx
+*.pdf
+
+# Raw and intermediate map downloads
+*.osm.xml
+*.filtered.osm.xml
+*.zip
+*.bak
+*~
